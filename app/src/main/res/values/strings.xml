@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fluid Intake</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_container_selector">ContainerSelector</string>
+    <string name="title_activity_manual_intake_adder">ManualIntakeAdder</string>
+    <string name="title_activity_goal_setter">GoalSetter</string>
+    <string name="title_activity_container_manager">ContainerManager</string>
+    <string name="title_activity_container_creator">ContainerCreator</string>
+    <string name="title_activity_intake_adder">IntakeAdder</string>
+</resources>
